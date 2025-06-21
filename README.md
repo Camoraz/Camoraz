@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://steamcommunity.com/id/camoraz/
+[https://steamcommunity.com/id/camoraz/](https://store.steampowered.com/app/3508280/Warlord_Rhapsody/)
 
 <!--
 **Camoraz/Camoraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
