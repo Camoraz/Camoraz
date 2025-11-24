@@ -19,7 +19,7 @@ For any questions about the code, game or any other topic, feel free to contact 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-
+[![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 <!--
 **Camoraz/Camoraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
